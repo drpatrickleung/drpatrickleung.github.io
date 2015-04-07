@@ -1,0 +1,52 @@
+{
+	"rnd": [
+		{
+			"patentName" : "Information Bearing Device",
+			"patent" : "Hong Kong Short Term 14111916.2"
+		},
+		{
+			"patentName" : "Woven Information Bearing Device",
+			"patent" : "Hong Kong Short Term 14108070.0"
+		},
+		{
+			"patentName" : "Information Bearing Device Comprising Coded Image Patterns",
+			"patent" : "Hong Kong Short Term 14104802.4"
+		},
+		{
+			"patentName" : "Woven Information Bearing Device",
+			"patent" : "Hong Kong Short Term 14103743.8"
+		},
+		{
+			"patentName" : "Composite Information Bearing Devices",
+			"patent" : "PCT/IB2014/066991"
+		},	
+		{
+			"patentName" : "Authentication Devices and Methods of generating same",
+			"patent" : "PCT/IB2014/065654"
+		},	
+		{
+			"patentName" : "Method and Device for Enhancing Data-Coded Elements",
+			"patent" : "Hong Kong Short Term 13109405.5"
+		},	
+		{
+			"patentName" : "Image acquisition apparatus and process",
+			"patent" : "WO2014002000A1",
+			"patentLink" : "https://www.google.com/patents/WO2014002000A1"
+		},
+		{
+			"patentName" : "Composite device and application process and apparatus thereof",
+			"patent" : "WO2013190479A3",
+			"patentLink" : "https://www.google.com/patents/WO2013190479A3"
+		},	
+		{
+			"patentName" : "Authentication apparatus and methods",
+			"patent" : "WO2013179249A1",
+			"patentLink" : "https://www.google.com/patents/WO2013179249A1"
+		},	
+		{
+			"patentName" : "Article authentication apparatus having a built-in light emitting device and camera",
+			"patent" : "WO2013179250A1",
+			"patentLink" : "https://www.google.com/patents/WO2013179250A1"
+		}														
+	] 
+}

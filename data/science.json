@@ -1,0 +1,60 @@
+{
+	"science":[
+		{
+		  "paperName": "Coherent control of microwave pulse storage in superconducting circuits",
+		  "paperJournal": {
+			  		"Phys. Rev. Lett.": "http://link.aps.org/doi/10.1103/PhysRevLett.109.253603",
+			  		"ArXiv": "http://arxiv.org/abs/1205.0637"	
+		  		}	  		
+		},
+		{
+		  "paperName": "Low-loss surface modes and lossy hybrid modes in metamaterial waveguides",
+		  "paperJournal": {
+			  		"Photonics and Nanostructures - Fundamentals and Applications": "http://dx.doi.org/10.1016/j.photonics.2012.05.010",
+			  		"ArXiv": "http://arxiv.org/abs/1110.1341"	
+		  		}	  		
+		},
+		{
+		  "paperName": "Spectral effects of strong χ(2) nonlinearity for quantum processing",
+		  "paperJournal": {
+			  		"Phys. Rev. A": "http://dx.doi.org/10.1103/PhysRevA.79.042307"
+		  		}	  		
+		},
+		{
+		  "paperName": "Optical zeno gate: bounds for fault tolerant operation",
+		  "paperJournal": {
+			  		"New Journal of Physics": "http://dx.doi.org/doi:10.1088/1367-2630/9/7/224"			  		
+		  		}	  		
+		},
+		{
+		  "paperName": "Improving the fidelity of optical Zeno gates via distillation",
+		  "paperJournal": {
+			  		"Phys. Rev. A": "http://dx.doi.org/10.1103/PhysRevA.74.062325"			  		
+		  		}	  		
+		},
+		{
+		  "paperName": "Quantum memory scheme based on optical fibers and cavities",
+		  "paperJournal": {
+			  		"Phys. Rev. A": "http://dx.doi.org/10.1103/PhysRevA.74.022311"			  		
+		  		}	  		
+		},
+		{
+		  "paperName": "Spectral Effects of Fast Response Cross Kerr Non-Linearity on Quantum Gate",
+		  "paperJournal": {
+			  		"ArXiv": "http://arxiv.org/abs/0810.2828v2"			  		
+		  		}	  		
+		},
+		{
+		  "paperName": "Electromagnetically controlled storage and retrieval for pulses propagating through a line of atoms",
+		  "paperJournal": {
+			  		"Proceedings of SPIE": "http://spie.org/x648.html?product_id=910028"			  		
+		  		}	  		
+		},	
+		{
+		  "paperName": "Waveguide characteristics for arbitrary permittivity and permeability including for metamaterials",
+		  "paperJournal": {
+			  		"Proceedings of SPIE": "http://dx.doi.org/10.1117/12.892741"			  		
+		  		}	  		
+		}				
+	]
+}
